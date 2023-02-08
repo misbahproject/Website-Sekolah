@@ -1,0 +1,26 @@
+body {
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    padding-top: 50px;
+
+}
+h1 {
+    margin-top: 100px;
+    color: navy;
+}
+.image {
+    width: 480px;
+
+}
+#tentang h1 {
+    color: black;
+}
+#card {
+    margin-top: 15px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
